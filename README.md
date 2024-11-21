@@ -1,6 +1,5 @@
 # Enhancing the Performance of GraphRec-based Recommendation System Using Language Models
-Paper
-Academic Conference
+Paper / Academic Conference
     
   한국지능정보시스템학회 2024년 추계 학술대회(2024.11.01)
 

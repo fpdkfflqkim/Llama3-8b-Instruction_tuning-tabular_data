@@ -1,4 +1,4 @@
-# Enhancing the Performance of GraphRec-based Recommendation System Using Language Models
+# Deep Learning-Based Trade Term Dictionary Embedding Quality Evaluation and Improvement Methodology
 Academic Conference
     
   2023 경영정보관련학회 춘계통합학술대회(2023.06.09)

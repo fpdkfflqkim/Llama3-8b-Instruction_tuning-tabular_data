@@ -1,16 +1,15 @@
 # Enhancing the Performance of GraphRec-based Recommendation System Using Language Models
-Paper / Academic Conference
+Academic Conference
     
-  한국지능정보시스템학회 2024년 추계 학술대회(2024.11.01)
+  2023 경영정보관련학회 춘계통합학술대회(2023.06.09)
 
 ## Purpose
-LLM을 활용하여 한정된 정형 데이터를 분석하는 ML의 성능 향상
+단어와 문장의 유사도를 통해 새로운 임베딩 품질 측정 방안을 제시
 
 ## Methodology
-Tabllm + Q-LoRA를 통해 학습한 LLM을 활용하여 한정된 정형 데이터를 증강 및 분석 성능 비교
+특정 단어와 해당 문장의 유사도 등수를 통해 언어모델의 임베딩 성능 비교
 	
-	Model : Llama3(8B)
-	Dataset : Default of credit card clients(대만 신용카드 고객 부도 여부)
-
+	Model : KRBert, KR-Sbert
+	Dataset : 관세청 용어 사전
 ## Result
-기존 정형 데이터 증강에 활용하는 SMOTE 기법과 비교하여 약 1.33%p 예측 성능 향상
+단어와 문장을 같은 공간에 임베딩하여 언어모델의 임베딩 성능 비교 가능
